@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 500;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+body {
+    background-color: #A0AECD;
+   
+   
+}
+
+h2 {
+    padding-top: 10px;
+}
+
+img {
+    min-width: 300px;
+    max-width: 600px;
+    max-height: 600px;
+    min-height: 400px;
+    width: 100%;
+}
+
+.name {
+    background-color: #A0AECD;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    font-size: 26px;
+    color: white;
+    text-shadow: 3px 0px 1px black,
+     -3px 0px 1px black,
+     0px 3px 1px black,
+     0px -3px 1px black;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 20px;
+}
+
+.text2 {
+    padding-top: 7%;
+
+}
+
+.homepage {
+    display: block;
+    background-color: #F8F8FF;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    min-width: 300px;
+    min-height: 420px;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid grey;
+    line-height: 25px;
+}
+
+.adres1,
+.adres3 {
+    background-color: #F8F8FF;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    min-width: 300px;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid grey;
+    min-height: 520px;
+}
+
+.adres2 {
+    background-color: #F8F8FF;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    min-width: 300px;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid grey;
+    min-height: 710px;
+}
+
+.adres4 {
+    background-color: #F8F8FF;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    min-width: 300px;
+    font-size: 18px;
+    font-weight: 700;
+    border: 3px solid grey;
+    min-height: 500px;
+}
+
+footer {
+    text-align: center;
+    min-width: 390px;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px 15px 0px 0px;
+    padding: 15px 10px 10px 10px;
+}
